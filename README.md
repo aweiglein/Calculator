@@ -1,5 +1,5 @@
 <h1>Calculator</h1>
-A caculator written in Python with Lambda functions and Tkinter for the GUI.<br><br>
+A calculator written in Python with Lambda functions and Tkinter for the GUI.<br><br>
 
 <p align="center">
   <kbd>
