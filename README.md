@@ -3,7 +3,7 @@ A calculator written in Python with Lambda functions and Tkinter for the GUI.<br
 
 <p align="center">
   <kbd>
-<img src="calculator.gif"></img>
+<img src="calculator.gif" alt="calculator" style="border:3px solid grey"></img>
   </kbd>
 </p>
 <br>
