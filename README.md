@@ -7,11 +7,4 @@ A scientific calculator written in Python with Lambda functions and Tkinter for 
   </kbd>
 </p>
 <br>
-
-<h2>Features</h2>
-<ul>
-  <li>One</li>
-  <li>Two</li>
-  <li>Three</li>
-</ul>
 <br><br>
